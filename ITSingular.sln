@@ -21,7 +21,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITSingular.WebApp", "ITSing
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - DatabaseScripts", "4 - DatabaseScripts", "{C02BB3D2-D71F-4B3A-9067-265151D4E20A}"
 	ProjectSection(SolutionItems) = preProject
-		C:\Users\William-NT\Documents\script.sql = C:\Users\William-NT\Documents\script.sql
+		database_scripts\script.sql = database_scripts\script.sql
 	EndProjectSection
 EndProject
 Global
